@@ -56,6 +56,7 @@
 <div align="center">
 <picture align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=wenjie-hoo&&hide_border=true" width="400">
+  
   <img src="https://github-readme-stats.vercel.app/api?username=wenjie-hoo&show_icons=true&rank_icon=github" width="400">
   </picture>
 
