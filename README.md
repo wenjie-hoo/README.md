@@ -7,8 +7,6 @@
 - 💡 I'm interested in **autonomous driving**(L4) field.
 - 💬 Let's talk about Taylor Swift.
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3kAlKG1AxTRxGIVbkABIpK?utm_source=generator" width="100%" height="80" frameBorder="" allowfullscreen="1" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
 <h3 align="center"> My Skill Set </h3>
 
 ------
