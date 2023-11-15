@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&color=F78080&center=true&multiline=true&random=true&width=435&lines=Bonjour%F0%9F%91%8B;je+m'appelle+Clark)](https://git.io/typing-svg)
-
 <div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&color=F78080&center=true&multiline=true&random=true&width=435&lines=Bonjour%F0%9F%91%8B;je+m'appelle+Clark)](https://git.io/typing-svg)
 
 - 👨‍💻 I'm **Clark** (ISFP-A)
 - 🌱 I’m currently pursuing **Masters in Data Science at University of Wrocław**
