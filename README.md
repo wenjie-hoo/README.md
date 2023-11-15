@@ -39,8 +39,8 @@
 
 -----
 
-##### Do not connect with me on
 <div align="center">
+<h4> Do not connect me on  </h4>
 <a href="https://github.com/wenjie-hoo" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -56,7 +56,6 @@
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=wenjie-hoo)](https://git.io/streak-stats)
-
   
   <img src="https://github-readme-stats.vercel.app/api?username=wenjie-hoo&show_icons=true&rank_icon=github" width="400">
 
