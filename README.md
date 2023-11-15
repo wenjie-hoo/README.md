@@ -54,11 +54,11 @@
 
 ---
 <div align="center">
-<picture align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=wenjie-hoo&&hide_border=true" width="400">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=wenjie-hoo)](https://git.io/streak-stats)
+
   
   <img src="https://github-readme-stats.vercel.app/api?username=wenjie-hoo&show_icons=true&rank_icon=github" width="400">
-  </picture>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wenjie-hoo&layout=compact)
 </div>
