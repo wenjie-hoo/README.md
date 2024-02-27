@@ -7,7 +7,7 @@
 - 🌱 I’m currently pursuing **Masters in Data Science at University of Wrocław**
 - ⚡ Fun fact: je parle un peu francais. Nie mówię po polsku.
 - 💡 I'm interested in **autonomous driving**(L4) field.
-- 💬 Let's talk about Taylor Swift.
+
 
 <h3 align="center"> My Skill Set </h3>
 
