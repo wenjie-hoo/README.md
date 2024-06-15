@@ -4,7 +4,7 @@
 </div>
 
 - 👨‍💻 I'm **Clark**
-- 🌱 I’m currently pursuing **Masters in Data Science at University of Wrocław**
+- 🌱 I’m currently pursuing Masters in **Data Science** at **University of Wrocław**
 - ⚡ Fun fact: je parle un peu francais. Nie mówię po polsku.
 - 💡 I'm interested in **autonomous driving**(L4) field.
 
