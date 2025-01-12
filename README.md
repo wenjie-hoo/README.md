@@ -5,7 +5,7 @@
 
 - 👨‍💻 I'm **Clark**
 - 🌱 I’m currently pursuing Masters in **Data Science** at **University of Wrocław**
-- ⚡ Fun fact: je parle un peu francais. Nie mówię po polsku.
+- ⚡ Fun fact: je parle un peu francais.
 - 💡 I'm interested in **autonomous driving**(L4) field.
 
 
